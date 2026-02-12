@@ -1,5 +1,9 @@
-## CanIRunIt 🧪 – “这个仓库我能一把跑起来吗？”
+<div align="center">
 
+# CanIRunIt 🧪 – “这个仓库我能一把跑起来吗？”
+
+</div>
+  
 CanIRunIt 是一个给 GitHub 仓库做 **「能不能一把跑起来」体检** 的小工具。  
 目标只有一个：**你贴个仓库链接，我帮你判断——这玩意到底好不好跑、README 到底写没写人话。** 🧐
 
@@ -361,4 +365,5 @@ print(generate_review(metrics.as_dict()))
 在仓库根目录添加相应的 `LICENSE` 文件即可。
 
 如果你基于这个项目做了更好玩的东西，欢迎提 Issue / PR，一起把「能不能一把跑起来」这件事做到极致。 😄
+
 
