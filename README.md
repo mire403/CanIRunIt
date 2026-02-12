@@ -366,4 +366,23 @@ print(generate_review(metrics.as_dict()))
 
 如果你基于这个项目做了更好玩的东西，欢迎提 Issue / PR，一起把「能不能一把跑起来」这件事做到极致。 😄
 
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 WhatShouldICite.</sub>
+
+</div>
 
