@@ -1,6 +1,6 @@
 <div align="center">
 
-# CanIRunIt  – “这个仓库我能一把跑起来吗？”
+
 
 </div>
   
@@ -385,5 +385,6 @@ print(generate_review(metrics.as_dict()))
 <sub>Made by Haoze Zheng. 2026 CanIRunIt.</sub>
 
 </div>
+
 
 
